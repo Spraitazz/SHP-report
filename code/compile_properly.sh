@@ -1,1 +1,0 @@
-gcc -pedantic -Werror -Wall -W -Wmissing-prototypes -Wstrict-prototypes -Wconversion -Wshadow -Wpointer-arith -Wcast-qual -Wcast-align -Wwrite-strings -Wnested-externs -fshort-enums -fno-common -Dinline= -g -O2 main.c -o main.out -lm -lfftw3 -lgsl -lgslcblas
